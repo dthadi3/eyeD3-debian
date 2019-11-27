@@ -4,6 +4,8 @@ eyed3 (0.8.11-1) UNRELEASED; urgency=low
   * Drop patch support-debian-python-magic
     python `magic` module in debian is now the same as pypi python-magic used
     upstream
+  * Add patch to support pylast 3, backported from upstream
+    (Closes: #945371)
 
  -- Gaetano Guerriero <x.guerriero@tin.it>  Wed, 27 Nov 2019 10:21:11 +0100
 
