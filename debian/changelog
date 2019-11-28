@@ -1,4 +1,4 @@
-eyed3 (0.8.11-1) UNRELEASED; urgency=low
+eyed3 (0.8.11-1) unstable; urgency=low
 
   * New upstream version
   * Drop patch support-debian-python-magic
@@ -7,7 +7,9 @@ eyed3 (0.8.11-1) UNRELEASED; urgency=low
   * Add patch to support pylast 3, backported from upstream
     (Closes: #945371)
 
- -- Gaetano Guerriero <x.guerriero@tin.it>  Wed, 27 Nov 2019 10:21:11 +0100
+  * Upload sponsored by Petter Reinholdtsen.
+
+ -- Gaetano Guerriero <x.guerriero@tin.it>  Thu, 28 Nov 2019 15:05:54 +0100
 
 eyed3 (0.8.10-1) unstable; urgency=medium
 
